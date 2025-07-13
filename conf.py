@@ -16,9 +16,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'eToro Wallet'
+project = 'Trust Wallets Acc'
 copyright = '2025'
-author = 'Carson McCullers'
+author = 'McCullers'
 
 
 # The full version, including alpha/beta/rc tags
